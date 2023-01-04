@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    font-family: 'Nerko One', cursive;
+}
+button{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    font-family: 'Nerko One', cursive;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+input{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
+}
+img{
+    background-color: white;
+}
+.main{
+    width: 200px;
+    height: 250px;
+}
+.bund{
+    width: 300px;
+    height: 300px;
+}
